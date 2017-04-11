@@ -2,6 +2,8 @@ package model;
 
 //@author arick.smith
 //@author isaac.bowen
+//@author jacob.peterson
+//@author tyler.gallup
 
 public interface SpecialMove 
 {
