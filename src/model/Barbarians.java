@@ -1,14 +1,14 @@
 package model;
 
-public class Giants extends ClashCharacters implements SpecialMove
+public class Barbarians extends ClashCharacters implements SpecialMove
 {
-	public Giants()
+	public Barbarians()
 	{
-		super("Giants", 34);
+		super("Barbarians", 34);
 	}
 	public int hitDamage()
 	{
-		return 12600;
+		return 800;
 	}
 	public String someName(String name)
 	{
@@ -30,6 +30,6 @@ public class Giants extends ClashCharacters implements SpecialMove
 	
 	public int defence()
 	{
-		return 12000;
+		return 1000;
 	}
 }
