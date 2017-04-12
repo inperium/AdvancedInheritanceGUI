@@ -31,5 +31,4 @@ public abstract class ClashCharacters {
 		return "Name: " + name + " Damage per hit: " + levelNumber
 				+ "\n";
 	}
-
 }
